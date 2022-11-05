@@ -2,6 +2,7 @@
 
 * Attempts To Recover The Password To a *.rss Project File.
 * Can Find Either Project Password Or Master Password (Or Both)
+* 100% Powershell Script To Run Native In Windows 10+ Without Dependencies
 
 ## Issues
 * Currently Only Works With None Encrypted Passwords
