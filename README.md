@@ -1,6 +1,6 @@
 ## RsLogix 500 Project Password Finder
 
-* Attempts To Recover The Password To a *.rss Project File.
+* Attempts To Recover The Password To a *.rss Project File Or *.ach Archive File.
 * Can Find Either Project Password Or Master Password (Or Both)
 * 100% Powershell Script To Run Native In Windows 10+ Without Dependencies
 
@@ -12,4 +12,4 @@
 ## Usage
 
 * Download And Run PWFinder.ps1
-* When Prompted Select *.rss File Then Wait For Completion
+* When Prompted Select *.rss , *.ach File Then Wait For Completion
